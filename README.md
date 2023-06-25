@@ -75,32 +75,14 @@
 </div>
 
 <div style="text-align: left;">
-    <h2><span style="vertical-align: middle;"><img src="./img/omf.svg" alt="OMF Logo" height="64"/></span>Oh, my Flutter</h2>
+    <h2>Oh, my Flutter</h2>
     <p>I'm an author of the channel about Dart and Flutter - "Oh, my Flutter".</p>
     <p>In the channel you can find news, articles, digests, announcements, vacancies and much more.</p>
     <p>Content available on 2 languages (English and Russian) on 2 platforms (Telegram and Discord).</p>
-    <p>
-        <a href="https://t.me/ohmyflutter">
-            <div style="display: inline-block;">
-                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="24" width="24" alt="OMF TG">
-                <p style="float:right; margin: 0px; margin-left: 8px;">OMF</p>
-            </div>
-        </a>
-        <img width="24" />
-        <a href="https://t.me/ohmyflutterENG">
-            <div style="display: inline-block;">
-                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="24" width="24" alt="OMF TG">
-                <p style="float:right; margin: 0px; margin-left: 8px;">OMF ENG</p>
-            </div>
-        </a>
-        <img width="24" />
-        <a href="https://discord.com/invite/4b8aRVDMx7">
-            <div style="display: inline-block;">
-                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="24" width="24" alt="OMF TG">
-                <p style="float:right; margin: 0px; margin-left: 8px;">OMF Discord</p>
-            </div>
-        </a>
-    </p>
+    <img align="left" src="./img/omf.svg" alt="OMF Logo" height="100"/>
+    <a href="https://t.me/ohmyflutter"><p>Telegram RU</p></a>
+    <a href="https://t.me/ohmyflutterENG"><p>Telegram ENG</p></a>
+    <a href="https://discord.com/invite/4b8aRVDMx7"><p>Discord Server</p></a>
 </div>
 
 <div style="text-align: left;">
