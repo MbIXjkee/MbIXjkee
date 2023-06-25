@@ -107,7 +107,6 @@
     <h2>My open source projects</h2>
     <p>
         <a href="https://github.com/Elementary-team/flutter-elementary">
-            <img src="https://i.ibb.co/jgkB4ZN/Elementary-Logo.png" alt="Elementary Logo" style="vertical-align: middle; margin: 0px; width: 200px;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elementary-team&repo=flutter-elementary" alt="Elementary Stats" style="vertical-align: middle;">
         </a>
     </p>
