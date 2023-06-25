@@ -78,7 +78,7 @@
     <h2>Oh, my Flutter</h2>
     <p>I'm an author of the channel about Dart and Flutter - "Oh, my Flutter".</p>
     <p>In the channel you can find news, articles, digests, announcements, vacancies and much more.</p>
-    <p>Content available on 2 languages (English and Russian) on 2 platforms (Telegram and Discord).</p>
+    <p>Content available in 2 languages (English and Russian) on 2 platforms (Telegram and Discord).</p>
     <img align="left" src="./img/omf.svg" alt="OMF Logo" height="100"/>
     <a href="https://t.me/ohmyflutter"><p>Telegram RU</p></a>
     <a href="https://t.me/ohmyflutterENG"><p>Telegram ENG</p></a>
