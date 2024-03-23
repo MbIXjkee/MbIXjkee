@@ -1,7 +1,7 @@
 <div style="text-align: left;">
-    <img align="right" height="150" src="./img/ava.webp" alt="avatar"/>
     <h1>Hi there 👋</h1>
-    <p>My name is Mikhail Zotyev. I am a software engineer with deep expertise in Dart and Flutter as well as a lot of other technologies that I needed for solving problems, with experience in leading teams and departments.</p>
+    <img align="right" height="150" src="./img/ava.webp" alt="avatar"/>
+    <p>My name is Mikhail Zotyev. I am a software engineer with deep expertise in Dart and Flutter and being a Google Developer Expert in these technologies. Apart from this, I'm also using various other technologies that I need for solving problems. I also have experience in leading teams and departments.</p>
 </div>
 
 <div style="text-align: left;">
