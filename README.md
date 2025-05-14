@@ -69,9 +69,6 @@
     <h2>Statistic</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=MbIXJkee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"/>
     <img src="https://streak-stats.demolab.com?user=MbIXJkee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mbixjkee" height="400" alt="skills graph"/>
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mbixjkee" alt="summary"/>
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=mbixjkee&labels=true" alt="activity"/>
 </div>
 
 <div style="text-align: left;">
@@ -114,9 +111,7 @@
     <h4>Habr (RU)</h4>
     <a href="https://habr.com/ru/users/mbixjkee/posts/">List of articles</a>
     <h4>Medium (ENG)</h4>
-    <a href="https://medium.com/@mbixjkee1392">
-        <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=mbixjkee1392&theme=dracula" alt="Layout with last medium posts"  />
-    </a>
+    <a href="https://medium.com/@mbixjkee1392">List of articles</a>
 </div>
 
 <div style="text-align: left;">
